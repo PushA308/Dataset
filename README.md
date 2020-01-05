@@ -1,1 +1,1 @@
-This is the collection of datasets that i came across and anyone can download the dataset if wanted.
+This is the collection of datasets that i came across and available to download the dataset if required to use in the project work.
