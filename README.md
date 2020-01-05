@@ -1,1 +1,1 @@
-This is iris and diabetes dataset in .csv format
+This is the collection of datasets that i came across and anyone can download the dataset if wanted.
